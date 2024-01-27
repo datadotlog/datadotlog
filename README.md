@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hey there, folks! 👋 I'm Datadotlog, also known as Fábio when I'm not in cyber mode. I'm a student with a passion for cybersecurity, navigating to the deepest oceans of bits and bytes.
+Hey there, folks! 👋 I'm Datadotlog, when I'm not in cyber mode. I'm a student with a passion for cybersecurity, navigating to the deepest oceans of bits and bytes.
 
 ## Cybersecurity in My DNA
 
