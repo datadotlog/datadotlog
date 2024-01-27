@@ -9,7 +9,7 @@ Hey there, folks! 👋 I'm Datadotlog, also known as Fábio when I'm not in cybe
 
 Even though I'm in the early stages of my dive into the cybersecurity realm, I can assure you that cybersecurity is more than a career choice for me—it's practically my kind of digital blood. Lines of code run in my veins, and firewalls are my second home.
 
-## Flipper Zero AFanatic
+## Flipper Zero Fanatic
 
 I recently got my hands on the Flipper Zero because, let's be honest, we don't all have unlimited budgets for high-end tools. But hey, it's surprisingly powerful and gets the job done! 💻🔒
 
