@@ -1,4 +1,4 @@
-# Hello, I'm Fábio (Alias: datadotlog)
+# Hello, I'm datadotlog
 
 
 ## About Me
