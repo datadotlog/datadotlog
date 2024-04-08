@@ -7,7 +7,7 @@ Hey there, folks! 👋 I'm Datadotlog, when I'm not in cyber mode. I recently fi
 
 ## Cybersecurity in My DNA
 
-Even though I'm in the early stages of my dive into the cybersecurity realm, I can assure you that cybersecurity is more than a career choice for me—it's practically my kind of digital blood. Lines of code run in my veins, and firewalls are my second home.
+Even though I'm in the early stages of my dive into the cybersecurity realm, I can assure you that cybersecurity is more than a career choice for me — it's practically my kind of digital blood. Lines of code run in my veins, and firewalls are my second home.
 
 ## Flipper Zero Fanatic
 
